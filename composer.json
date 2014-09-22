@@ -1,8 +1,8 @@
 {
-    "name": "leonidies/GelfGL",
+    "name": "leonidies/gelfgl",
     "type": "library",
     "description": "A PHP Class Library for GrayLog2 server",
-    "homepage": "https://github.com/leonidies/GelfGL.git",
+    "homepage": "https://github.com/leonidies/gelfgl.git",
     "keywords": ["GrayLog" , "REST", "PHP"],
     "license": "GPL-2.0",
     "authors": [
@@ -16,12 +16,12 @@
 
     "require": {
         "php": ">=5.3.9",
-        "educoder/pest": "1.0.0",
-        "devristo/phpws": "dev-master"
+        "educoder/pest": "1.0.0"
+
     },
     "autoload": {
         "files": [
-            "gelfGL.php"
+            "gelfgl.php"
         ]
     }
 
