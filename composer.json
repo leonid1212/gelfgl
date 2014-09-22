@@ -21,7 +21,7 @@
     },
     "autoload": {
         "files": [
-            "gelfGL.php"
+            "gelfgl.php"
         ]
     }
 
