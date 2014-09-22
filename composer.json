@@ -1,0 +1,31 @@
+{
+    "name": "leonidies/GelfGL",
+    "type": "library",
+    "description": "A PHP Class Library for GrayLog2 server",
+    "homepage": "https://github.com/leonidies/GelfGL.git",
+    "keywords": ["GrayLog" , "REST", "PHP"],
+    "license": "GPL-2.0",
+    "authors": [
+        {
+            "name": "Nir Simionovich",
+            "email": "nir.simionovich@gmail.com",
+            "homepage": "http://www.simionovich.com",
+            "role": "Packager"
+        }
+    ],
+
+    "require": {
+        "php": ">=5.3.9",
+        "educoder/pest": "1.0.0",
+        "devristo/phpws": "dev-master"
+    },
+    "autoload": {
+        "files": [
+            "gelfGL.php"
+        ]
+    }
+
+
+
+
+}
