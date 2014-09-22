@@ -28,7 +28,7 @@ require_once "../gelfConfig.php";
 try{
 
     //Additional information
-    $additionalFields = array(
+     $additionalFields = array(
         'testField1'=>"test1",
         'testField2'=>"test2"
     );
