@@ -26,8 +26,8 @@ The recommended method of installation is using Composer. Add the following to y
 ```
   "require": {
         "php": ">=5.3.9",
-        "educoder/pest": "1.0.0",
-        "devristo/phpws": "dev-master"
+        "educoder/pest": "1.0.0"
+
     }
 ```
 

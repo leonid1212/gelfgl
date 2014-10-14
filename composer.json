@@ -22,7 +22,7 @@
         }
     ],
     "require": {
-        "php": ">=5.3.9",
+        "php": ">=5.3.3",
         "educoder/pest": "1.0.0"
     },
     "autoload": {
