@@ -384,7 +384,7 @@ class gelfgl
 
             }
 
-          
+
 
             return false;
 
