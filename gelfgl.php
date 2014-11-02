@@ -373,7 +373,7 @@ class gelfgl
                 die("Couldn't create socket: " . $errormsg . "\n".$errorcode); //something went wrong so exit(1)
             }
 
-            echo "Socket created \n";
+
             /**
              * Send the GELF object to the server using UDP
              */
@@ -384,7 +384,7 @@ class gelfgl
 
             }
 
-            echo "Gelf object sent \n";
+          
 
             return false;
 
